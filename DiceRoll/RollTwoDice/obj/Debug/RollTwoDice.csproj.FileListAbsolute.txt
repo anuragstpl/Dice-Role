@@ -1,0 +1,9 @@
+E:\Student Jobs\DotNet\RollADice\RollADice\RollTwoDice\bin\Debug\RollTwoDice.exe
+E:\Student Jobs\DotNet\RollADice\RollADice\RollTwoDice\bin\Debug\RollTwoDice.pdb
+E:\Student Jobs\DotNet\RollADice\RollADice\RollTwoDice\obj\Debug\RollTwoDice.csprojAssemblyReference.cache
+E:\Student Jobs\DotNet\RollADice\RollADice\RollTwoDice\obj\Debug\RollTwoDice.Form1.resources
+E:\Student Jobs\DotNet\RollADice\RollADice\RollTwoDice\obj\Debug\RollTwoDice.Properties.Resources.resources
+E:\Student Jobs\DotNet\RollADice\RollADice\RollTwoDice\obj\Debug\RollTwoDice.csproj.GenerateResource.cache
+E:\Student Jobs\DotNet\RollADice\RollADice\RollTwoDice\obj\Debug\RollTwoDice.csproj.CoreCompileInputs.cache
+E:\Student Jobs\DotNet\RollADice\RollADice\RollTwoDice\obj\Debug\RollTwoDice.exe
+E:\Student Jobs\DotNet\RollADice\RollADice\RollTwoDice\obj\Debug\RollTwoDice.pdb

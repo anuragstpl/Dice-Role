@@ -1,0 +1,8 @@
+E:\Student Jobs\DotNet\RollADice\RollADice\DiceRoll\obj\Debug\DiceRoll.Form1.resources
+E:\Student Jobs\DotNet\RollADice\RollADice\DiceRoll\obj\Debug\DiceRoll.Properties.Resources.resources
+E:\Student Jobs\DotNet\RollADice\RollADice\DiceRoll\obj\Debug\DiceRoll.csproj.GenerateResource.cache
+E:\Student Jobs\DotNet\RollADice\RollADice\DiceRoll\obj\Debug\DiceRoll.csproj.CoreCompileInputs.cache
+E:\Student Jobs\DotNet\RollADice\RollADice\DiceRoll\bin\Debug\DiceRoll.exe
+E:\Student Jobs\DotNet\RollADice\RollADice\DiceRoll\bin\Debug\DiceRoll.pdb
+E:\Student Jobs\DotNet\RollADice\RollADice\DiceRoll\obj\Debug\DiceRoll.exe
+E:\Student Jobs\DotNet\RollADice\RollADice\DiceRoll\obj\Debug\DiceRoll.pdb
